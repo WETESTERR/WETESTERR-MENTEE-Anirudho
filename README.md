@@ -1,2 +1,2 @@
-# WETESTERR-MENTEE-Anirudho
+# WETESTERR-MENTEE-ANIRUDHO
 Test-Automation
